@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zaihra
-- 👀 I’m interested in evidence synthesis, compartive effectiveness and patient cetnred outcomes research 
+- 👀 I’m interested in evidence synthesis, compartive effectiveness and patient centered outcomes research 
 - 🌱 I’m currently learning Git and GitHub 
 - 💞️ I’m looking to collaborate on building shiny apps for the abovementioned research fields.
 - 📫 How to reach me: via email.
